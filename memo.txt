@@ -1,0 +1,4 @@
+1.EventLoopGroup是什么，做什么
+2.Bootstrap是什么....
+3.kryo序列化全过程
+4.ChannelFuture 和 Channel的区别
